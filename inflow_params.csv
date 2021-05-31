@@ -5,5 +5,5 @@ distributed recharge,W,0.0001,m/d,
 zone 1 horizontal K,kh,0.005,m/d,minimum
 zone 2 horizontal K,kh2,0.0005,m/d,
 zone 2 vertical K,kv,0.00005,m/d,
-pit base,pitbase,30,mAHD,
+pit base,pitbase,10,mAHD,
 static GWL,sGWL,60,mAHD,
