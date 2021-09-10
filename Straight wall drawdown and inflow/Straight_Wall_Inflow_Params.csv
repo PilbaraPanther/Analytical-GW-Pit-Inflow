@@ -1,0 +1,7 @@
+Parameter,symbol,value,units,comment
+wall width,a,200,m,
+distributed recharge,W,0.0002,m/d,
+horizontal K,kh,0.1,m/d,minimum
+Base,Base,50,mAHD,
+static GWL,sGWL,70,mAHD,
+Saturated height at wall,b,1,m,height of water at wall
